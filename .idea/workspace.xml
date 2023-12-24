@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab078feb-38d6-4b20-ab17-4a0f1b591dc9" name="更改" comment="初步提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../github project" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../github project" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\program\MVN" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\program\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2U5lqKjc2g60mEb59sVwMNuZN01" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/program/project/seckill&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.32988507&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0c190570164a11f9b6b910fd7cbd6543&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;D:/program/project/seckill/.idea/aws.xml&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;D:/program/project/seckill/.idea&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\program\project\seckill\src\main\resources\templates" />
+      <recent name="D:\program\project\seckill\src\main\resources\static" />
+      <recent name="D:\program\project\seckill\src\main\resources" />
+      <recent name="D:\program\project\seckill\src\main\java\com\xxxx\seckill\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeckillDemoApplication">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.seckill.util.MD5Util" />
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UUIDUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.seckill.util.UUIDUtil" />
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="common.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="common.js" working-dir="$PROJECT_DIR$/src/main/resources/static/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="SeckillDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.seckill.SeckillDemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.common.js" />
+      <item itemvalue="Spring Boot.SeckillDemoApplication" />
+      <item itemvalue="应用程序.UUIDUtil" />
+      <item itemvalue="应用程序.MD5Util" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SeckillDemoApplication" />
+        <item itemvalue="Node.js.common.js" />
+        <item itemvalue="应用程序.UUIDUtil" />
+        <item itemvalue="应用程序.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ab078feb-38d6-4b20-ab17-4a0f1b591dc9" name="更改" comment="" />
+      <created>1692237513143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692237513143</updated>
+      <workItem from="1692237516889" duration="5885000" />
+      <workItem from="1692323800801" duration="3046000" />
+      <workItem from="1692406641310" duration="9000" />
+      <workItem from="1692587394349" duration="16997000" />
+      <workItem from="1692666789275" duration="1925000" />
+      <workItem from="1692675091267" duration="12671000" />
+      <workItem from="1692754074766" duration="3049000" />
+      <workItem from="1692757501977" duration="110000" />
+      <workItem from="1692757669275" duration="1866000" />
+      <workItem from="1692760507014" duration="4571000" />
+      <workItem from="1692772761243" duration="79000" />
+      <workItem from="1692772843527" duration="6400000" />
+      <workItem from="1692782961368" duration="1820000" />
+      <workItem from="1692926346538" duration="14014000" />
+      <workItem from="1693184931167" duration="600000" />
+      <workItem from="1693187261270" duration="4583000" />
+      <workItem from="1693194627297" duration="2843000" />
+      <workItem from="1693296675350" duration="3693000" />
+      <workItem from="1693382620470" duration="3853000" />
+      <workItem from="1693444374519" duration="30000" />
+      <workItem from="1693556600461" duration="3225000" />
+      <workItem from="1693904335320" duration="1634000" />
+      <workItem from="1693968592950" duration="7719000" />
+      <workItem from="1693997307450" duration="60000" />
+      <workItem from="1694154439883" duration="4032000" />
+      <workItem from="1694252421035" duration="1350000" />
+      <workItem from="1694490002951" duration="3512000" />
+      <workItem from="1696232884752" duration="17360000" />
+      <workItem from="1696396956561" duration="2352000" />
+      <workItem from="1696399364894" duration="2339000" />
+      <workItem from="1696492012497" duration="3966000" />
+      <workItem from="1696582120865" duration="4006000" />
+      <workItem from="1696757552199" duration="4899000" />
+      <workItem from="1696772681320" duration="4150000" />
+      <workItem from="1703345761834" duration="1782000" />
+      <workItem from="1703372870585" duration="2793000" />
+      <workItem from="1703377089550" duration="3346000" />
+      <workItem from="1703381249106" duration="701000" />
+      <workItem from="1703381985080" duration="291000" />
+      <workItem from="1703382555185" duration="393000" />
+      <workItem from="1703382973661" duration="220000" />
+    </task>
+    <task id="LOCAL-00001" summary="初步提交">
+      <created>1703377629218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703377629218</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初步提交">
+      <created>1703378689173</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703378689173</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初步提交">
+      <created>1703379657481</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703379657481</updated>
+    </task>
+    <task id="LOCAL-00004" summary="初步提交">
+      <created>1703382692156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703382692156</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初步提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="初步提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="org.apache.catalina.connector.Request" memberName="formats" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
