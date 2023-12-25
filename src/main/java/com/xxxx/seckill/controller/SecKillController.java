@@ -2,6 +2,7 @@ package com.xxxx.seckill.controller;
 
 
 import com.xxxx.seckill.config.AccessLimit;
+import com.xxxx.seckill.pojo.*;
 import com.xxxx.seckill.rabbitmq.MQSender;
 import com.xxxx.seckill.service.IGoodsService;
 import com.xxxx.seckill.service.IOrderService;
@@ -20,7 +21,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
-
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

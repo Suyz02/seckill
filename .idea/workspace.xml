@@ -270,7 +270,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703383552875</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="修改">
+      <created>1703385358070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703385358070</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改">
+      <created>1703385398700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1703385398700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +312,8 @@
       <path value="$PROJECT_DIR$/../../github project" />
     </ignored-roots>
     <MESSAGE value="初步提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="初步提交" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
